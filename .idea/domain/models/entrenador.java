@@ -1,5 +1,5 @@
 
-public class entrenador{
+public class entrenador extends persona{
 
     private Date anoNacimiento;
 
